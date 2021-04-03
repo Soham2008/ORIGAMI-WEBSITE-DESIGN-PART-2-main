@@ -1,0 +1,19 @@
+
+   h1{
+
+       text-align:center;
+
+      color: black;
+            
+  }
+  
+  body{
+
+    background-image: url(images/pinkOrigami.jpeg);
+    
+  }
+
+  .s{
+    display:flex;
+    justify-content: space-between;
+  }
